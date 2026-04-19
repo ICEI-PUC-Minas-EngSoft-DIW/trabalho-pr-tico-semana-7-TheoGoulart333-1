@@ -23,3 +23,4 @@ O sistema calcula e classifica a situação financeira.
 ## Execução
 
 ![Resultado do Console](./imagens/console.png)
+
